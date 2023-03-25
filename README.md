@@ -15,7 +15,7 @@ Script to scan subdomains of a domain
 $ git clone https://github.com/dxlerYT/CloudsScan/
 
 # Go into the CS folder
-$ cd CS
+$ cd CloudsScan
 
 # Install the requirements
 $ python3 -m pip install -r requirements.txt
